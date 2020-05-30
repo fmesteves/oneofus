@@ -1,6 +1,9 @@
 {
-  "name": "One Of Us",
+  "name": "OneOfUs",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.2.x"
+  },
   "description": "A first version of the One Of Us VR",
   "main": "index.js",
   "license": "MIT",

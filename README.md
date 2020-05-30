@@ -1,8 +1,8 @@
-# prj-b71-vr
+# One of Us
 
 ## Overview
 
-This is an interactive demo of a sprite landscape rendering technique used on [Bear71](https://bear71vr.nfb.ca/).
+This is an interactive demo of a sprite landscape rendering technique used on [One of Us]().
 
 ### Technique overview
 
@@ -30,8 +30,8 @@ For development;
 Clone & install:
 
 ```sh
-git clone https://github.com/nfbinteractive/Bear71VR_OpenSource.git
-cd Bear71VR_OpenSource
+git clone https://github.com/fmesteves/oneofus.git
+cd oneofus
 npm install
 ```
 
@@ -49,4 +49,4 @@ We use ES2015 features with Babel, but we are sticking with CommonJS `require()`
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/nfbinteractive/Bear71VR_OpenSource/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/fmesteves/oneofus/blob/master/LICENSE.md) for details.
